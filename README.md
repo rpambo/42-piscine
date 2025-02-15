@@ -4,7 +4,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/rpambo/42-piscine?color=%2312bab9&style=flat-square"/>
 	<a href='https://www.linkedin.com/in/rafaelkitoco' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/rpambo' target="_blank"><img alt='42' src='https://img.shields.io/badge/Luanda-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
@@ -24,7 +24,7 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 This repository contains code developed at **42 Piscine**, from **18/11/2023** to **06/12/2023**.
 
 > [!NOTE]
-> If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
+> If you are looking for code related to the **42 Common Core**, <a href="https://rpambo/rpambo/42-common-core">click here</a>.
 
 ## PROJECTS
 <div align="center">
